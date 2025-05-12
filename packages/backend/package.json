@@ -77,7 +77,7 @@
         "moesif-nodejs": "^3.5.3",
         "morgan": "^1.10.0",
         "node-cron": "^3.0.2",
-        "oauth": "^0.10.0",
+        "oauth": "^0.10.2",
         "prisma": "^4.16.0",
         "rate-limiter-flexible": "^5.0.3",
         "redis": "^4.6.8",
